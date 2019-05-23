@@ -1,0 +1,11 @@
+ "name": "SpaceImpact",
+  "version": "0.0.0",
+  "main": "spaceimpact.html",
+  "window": {
+    "width": 800,
+    "height": 800,
+    "toolbar": false
+  },
+  "author": "",
+  "description": ""
+}
